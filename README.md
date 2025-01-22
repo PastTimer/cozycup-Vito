@@ -34,8 +34,15 @@ Key Features
         - Email: cozy_cup@gmail.com
 
 Screen Captures
-    ![alt text](img1.png)
+![alt text](img1.png)
     This captures the creation of the readme file.
+
+![alt text](download.jpeg)
+    This is the created home page showcasing few popular coffee blends.
+
+![alt text](<download (1).jpeg>)
+    This is the code for the home page with the information of the cafe.
+
 
 About the Authors
 <img src="![alt text](V.jpg)" width="150" style="border-radius: 50%;">
@@ -48,17 +55,17 @@ About the Authors
 <h2>Connect with us:</h2>
 <h3>FACEBOOK</h3>
 <a href="https://facebook.com/imee.vito.2024" target="_blank">
-    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+    <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
 </a>
 
 <a href="https://facebook.com/sandara.castillo.739" target="_blank">
-    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+    <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
 </a>
 
 <h3>GITHUB</h3>
 <a href="https://github.com/PastTimer" target="_blank">
-    <img src="Github.svg" width="30" alt="GitHub Icon">
+    <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
 </a>
 <a href="https://github.com/Ms-Castle" target="_blank">
-    <img src="Github.svg" width="30" alt="GitHub Icon">
+    <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
 </a>
