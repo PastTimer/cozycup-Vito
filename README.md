@@ -36,3 +36,13 @@ Key Features
 Screen Captures
     ![alt text](img1.png)
     This captures the creation of the readme file.
+
+About the Authors
+    * IMEE VITO
+        - Role: Lead Developer, created the Home Page including the Contacts and Footer.
+        - Github: https://github.com/PastTimer
+        - Email: 202280142@psu.palawan.edu.ph
+    * SANDARA KIM CASTILLO
+        - Role: Created the readme file and the menu.
+        - Github: https://github.com/Ms-Castle
+        - Email: 202280213@psu.palawan.edu.ph
