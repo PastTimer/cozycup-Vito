@@ -53,19 +53,20 @@ About the Authors
     <p><b>Email:</b> 202280213@psu.palawan.edu.ph</p>
 
 <h2>Connect with us:</h2>
-<h3>FACEBOOK</h3>
+<h3>FACEBOOK</h3><br>
 <a href="https://facebook.com/imee.vito.2024" target="_blank">
     <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
 </a>
-
+<br>
 <a href="https://facebook.com/sandara.castillo.739" target="_blank">
     <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
 </a>
 
-<h3>GITHUB</h3>
+<h3>GITHUB</h3><br>
 <a href="https://github.com/PastTimer" target="_blank">
     <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
 </a>
+<br>
 <a href="https://github.com/Ms-Castle" target="_blank">
     <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
 </a>
