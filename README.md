@@ -38,9 +38,27 @@ Screen Captures
     This captures the creation of the readme file.
 
 About the Authors
-<img src="https://github.com/PastTimer/cozycup-Vito/commit/43c9879ec22a840844109f9f65ea85ad3695f60b" width="150" style="border-radius: 50%;">
+<img src="![alt text](V.jpg)" width="150" style="border-radius: 50%;">
     <p><b>Name:</b> Imee Vito</p>
     <p><b>Email:</b> 202280142@psu.palawan.edu.ph</p>
-<img src="https://github.com/PastTimer/cozycup-Vito/commit/43c9879ec22a840844109f9f65ea85ad3695f60b" width="150" style="border-radius: 50%;">
+<img src="![alt text](C.jpg)" width="150" style="border-radius: 50%;">
     <p><b>Name:</b> Sandara Kim Castillo</p>
     <p><b>Email:</b> 202280213@psu.palawan.edu.ph</p>
+
+<h2>Connect with us:</h2>
+<h3>FACEBOOK</h3>
+<a href="https://facebook.com/imee.vito.2024" target="_blank">
+    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+</a>
+
+<a href="https://facebook.com/sandara.castillo.739" target="_blank">
+    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+</a>
+
+<h3>GITHUB</h3>
+<a href="https://github.com/PastTimer" target="_blank">
+    <img src="Github.svg" width="30" alt="GitHub Icon">
+</a>
+<a href="https://github.com/Ms-Castle" target="_blank">
+    <img src="Github.svg" width="30" alt="GitHub Icon">
+</a>
