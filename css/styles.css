@@ -144,12 +144,12 @@ nav a:hover {
 }
 
 .contact form{
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
     background-color: #ede4d6;
     color: #4c3c32;
     border-radius: 5px;
-    padding: 1em;
+    padding: 3em;
 }
 
 .contact form label {
@@ -185,6 +185,24 @@ nav a:hover {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
+}
+
+.robin p{
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.spread{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.spread form {
+    margin-left: 10em;
+    margin-right: -10em;
+    width: 30em;
 }
 
 footer {
