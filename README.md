@@ -48,17 +48,17 @@ About the Authors
 <h2>Connect with us:</h2>
 <h3>FACEBOOK</h3>
 <a href="https://facebook.com/imee.vito.2024" target="_blank">
-    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+    <br><img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
 </a>
 
 <a href="https://facebook.com/sandara.castillo.739" target="_blank">
-    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+    <br><img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
 </a>
 
 <h3>GITHUB</h3>
 <a href="https://github.com/PastTimer" target="_blank">
-    <img src="Github.svg" width="30" alt="GitHub Icon">
+    <br><img src="Github.svg" width="30" alt="GitHub Icon">
 </a>
 <a href="https://github.com/Ms-Castle" target="_blank">
-    <img src="Github.svg" width="30" alt="GitHub Icon">
+    <br><img src="Github.svg" width="30" alt="GitHub Icon">
 </a>
