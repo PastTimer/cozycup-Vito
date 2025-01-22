@@ -34,8 +34,16 @@ Key Features
         - Email: cozy_cup@gmail.com
 
 Screen Captures
-    ![alt text](img1.png)
+![alt text](img1.png)
     This captures the creation of the readme file.
+    <BR>
+
+![alt text](download.jpeg)
+    This is the created home page showcasing few popular coffee blends.
+    <BR>
+
+![alt text](<download (1).jpeg>)
+    This is the code for the home page with the information of the cafe.
 
 About the Authors
 <img src="![alt text](V.jpg)" width="150" style="border-radius: 50%;">
