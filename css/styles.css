@@ -44,6 +44,29 @@ nav a:hover {
     color: #dec28a;
 }
 
+.side{
+    background-color: #ede4d6;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.side h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.product img{
+    max-width: 18em;
+    max-height: 18em;
+}
+
+.showcase {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+    margin-top: 1em;
+}
+
 .hero {
     background-image: url("../img/herobg.PNG");
     background-size: cover;
