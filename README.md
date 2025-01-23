@@ -45,6 +45,13 @@ Screen Captures
 ![alt text](<download (1).jpeg>)
     This is the code for the home page with the information of the cafe.
 
+![alt text](download.jpeg)
+    This is the created home page showcasing few popular coffee blends.
+
+![alt text](<download (1).jpeg>)
+    This is the code for the home page with the information of the cafe.
+
+
 About the Authors
 <img src="![alt text](V.jpg)" width="150" style="border-radius: 50%;">
     <p><b>Name:</b> Imee Vito</p>
@@ -54,19 +61,20 @@ About the Authors
     <p><b>Email:</b> 202280213@psu.palawan.edu.ph</p>
 
 <h2>Connect with us:</h2>
-<h3>FACEBOOK</h3>
+<h3>FACEBOOK</h3><br>
 <a href="https://facebook.com/imee.vito.2024" target="_blank">
-    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+    <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
 </a>
-
+<br>
 <a href="https://facebook.com/sandara.castillo.739" target="_blank">
-    <img src="Facebook_white.svg" width="30" alt="Personal Facebook Icon">
+    <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
 </a>
 
-<h3>GITHUB</h3>
+<h3>GITHUB</h3><br>
 <a href="https://github.com/PastTimer" target="_blank">
-    <img src="Github.svg" width="30" alt="GitHub Icon">
+    <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
 </a>
+<br>
 <a href="https://github.com/Ms-Castle" target="_blank">
-    <img src="Github.svg" width="30" alt="GitHub Icon">
+    <img src="![alt text](Github.svg)" width="30" alt="Github Icon">
 </a>

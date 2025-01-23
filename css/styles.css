@@ -270,14 +270,14 @@ table{
 td, th {
     border: none;
     text-align: center;
-    padding: 8px;
+    padding: 5px;
 }
 .menulist{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #menu h2 {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 #menu th{
