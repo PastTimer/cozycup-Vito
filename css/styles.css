@@ -272,3 +272,10 @@ td, th {
     text-align: center;
     padding: 8px;
 }
+.menulist{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#menu h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
