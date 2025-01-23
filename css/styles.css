@@ -1,4 +1,10 @@
-body, h1, h2, h3, p, ul, li {
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
     margin: 0;
     padding: 0;
 }
@@ -23,10 +29,10 @@ nav {
     align-items: center;
 }
 
-nav h1{
+nav h1 {
     color: #dcdbd8;
     font-size: 3em;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: -12em
 }
 
@@ -52,7 +58,7 @@ nav a:hover {
     color: #dec28a;
 }
 
-.side{
+.side {
     background-color: #ede4d6;
     padding: 100px 0;
     text-align: center;
@@ -63,12 +69,12 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
-.product img{
+.product img {
     max-width: 18em;
     max-height: 18em;
 }
 
-.product img:hover{
+.product img:hover {
     transform: scale(1.1);
 }
 
@@ -156,7 +162,7 @@ nav a:hover {
     margin-bottom: 40px;
 }
 
-.contact form{
+.contact form {
     max-width: 100%;
     margin: 0 auto;
     background-color: #ede4d6;
@@ -169,10 +175,11 @@ nav a:hover {
     font-size: 0.9em;
 }
 
-.contact form input, .contact form textarea {
+.contact form input,
+.contact form textarea {
     border-radius: 5px;
     border: 1px solid #4c3c32;
-    width:70%;
+    width: 70%;
     background-color: rgb(244, 241, 237);
 }
 
@@ -180,7 +187,7 @@ nav a:hover {
     height: 100px;
 }
 
-.contact form button{
+.contact form button {
     background-color: #4c3c32;
     color: white;
     padding: 10px 20px;
@@ -189,11 +196,11 @@ nav a:hover {
     cursor: pointer;
 }
 
-.contact form button:hover{
+.contact form button:hover {
     background-color: #7e685b;
 }
 
-.robin{
+.robin {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -201,12 +208,12 @@ nav a:hover {
     width: 100%;
 }
 
-.robin p{
+.robin p {
     font-style: italic;
     font-size: 0.9em;
 }
 
-.spread{
+.spread {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -234,17 +241,17 @@ footer {
     font-size: 0.8em;
 }
 
-.footer-relative{
+.footer-relative {
     position: relative;
 }
 
-.teeny{
+.teeny {
     font-size: 0.75em;
     font-style: italic;
     color: #aca8a6;
 }
 
-footer form button{
+footer form button {
     background-color: #4c3c32;
     color: white;
     padding: 5px 10px;
@@ -254,32 +261,35 @@ footer form button{
     font-size: 0.8em;
 }
 
-.profile{
-     display: grid;
+.profile {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1em;
     margin-top: 1em;
     margin-bottom: 30px;
 }
 
-table{
+table {
     border-collapse: collapse;
     width: 100%;
 }
 
-td, th {
+td,
+th {
     border: none;
     text-align: center;
     padding: 5px;
 }
-.menulist{
+
+.menulist {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 #menu h2 {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 30px;
 }
 
-#menu th{
-    font-size:30px;
+#menu th {
+    font-size: 30px;
 }
