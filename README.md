@@ -1,9 +1,9 @@
-## CozyCup pairing: Sandara Kim Castillo, Imee Vito
+## CozyCup Cafe: Sandara Kim Castillo, Imee Vito
 
-**Project Description**
-    The CozyCup Coffee House Website is a user-friendly platform design to showcase the services that the business offer while allowing customers to explore the menu, learn about the cafe and contact the business easily.
+# Project Description
+The CozyCup Coffee House Website is a user-friendly platform design to showcase the services that the business offer while allowing customers to explore the menu, learn about the cafe and contact the business easily.
 
-**Key Features**
+## Features
 
 *Home Page*
 + Header with cafe's logo and navigation links to all section
@@ -29,11 +29,7 @@
 + Quick links to Home, Menu, About Us, and Contact Pages
 + Social Media icons with links to profiles
 
-**CONTACT INFORMATION**
-    For any issues or questions about this project, please contact:
-Email: ***cozy_cup@gmail.com***
-
-**Screen Captures**
+## Screen Captures
 ![alt text](img1.png)
     This captures the creation of the readme file.
     <BR>
@@ -45,36 +41,31 @@ Email: ***cozy_cup@gmail.com***
 ![alt text](<download (1).jpeg>)
     This is the code for the home page with the information of the cafe.
 
-![alt text](download.jpeg)
-    This is the created home page showcasing few popular coffee blends.
+![alt text](landing.PNG)
+    This is the what greets who visit the site.
 
-![alt text](<download (1).jpeg>)
-    This is the code for the home page with the information of the cafe.
+# About the Authors
+<img src="/V.jpg" width="150" style="border-radius: 50%;">
 
+**Name: Imee Vito** <br>
+**Email: 202280142@psu.palawan.edu.ph**
 
-**About the Authors**
-<img src="! [alt text] (V.jpg)" width="150" style="border-radius: 50%;">
-    <p><b>Name:</b> *Imee Vito*</p>
-    <p><b>Email:</b> 202280142@psu.palawan.edu.ph</p>
-<img src="![alt text](C.jpg)" width="150" style="border-radius: 50%;">
-    <p><b>Name:</b> *Sandara Kim Castillo*</p>
-    <p><b>Email:</b> 202280213@psu.palawan.edu.ph</p>
-
-<h2>Connect with us:</h2>
-<h3>FACEBOOK</h3><br>
 <a href="https://facebook.com/imee.vito.2024" target="_blank">
-    <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="30" alt="Personal Facebook Icon">
 </a>
-<br>
+<a href="https://github.com/PastTimer" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="30" alt="GitHub Icon">
+</a><br>
+
+<img src="/C.jpg" width="150" style="border-radius: 50%;">
+
+**Name: Sandara Kim Castillo** <br>
+**Email: 202280213@psu.palawan.edu.ph**
+
 <a href="https://facebook.com/sandara.castillo.739" target="_blank">
-    <img src="![alt text](Facebook_white.svg)" width="30" alt="Personal Facebook Icon">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="30" alt="Personal Facebook Icon">
 </a>
 
-<h3>GITHUB</h3><br>
-<a href="https://github.com/PastTimer" target="_blank">
-    <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
-</a>
-<br>
 <a href="https://github.com/Ms-Castle" target="_blank">
-    <img src="![alt text](Github.svg)" width="30" alt="Github Icon">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="30" alt="Github Icon">
 </a>
