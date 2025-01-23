@@ -1,4 +1,3 @@
-/* Reset some default styles */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -8,18 +7,27 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f8f2e0;
     color: #4c3c32;
+    padding-bottom: 140px;
 }
 
 header {
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 10px;
+    background-color: rgb(66, 51, 43);
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+nav h1{
+    color: #dcdbd8;
+    font-size: 3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: -12em
 }
 
 .logo img {
@@ -34,21 +42,51 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: #dcdbd8;
+    font-size: 1.2em;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: #dec28a;
+}
+
+.side{
+    background-color: #ede4d6;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.side h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.product img{
+    max-width: 18em;
+    max-height: 18em;
+}
+
+.product img:hover{
+    transform: scale(1.1);
+}
+
+.showcase {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em;
+    margin-top: 1em;
 }
 
 .hero {
+    background-image: url("../img/herobg.PNG");
+    background-size: cover;
+    background-position: center;
     text-align: center;
     padding: 150px 0;
-    background-image: url('hero-bg.jpg');
-    background-size: cover;
     color: white;
+    height: 11em;
 }
 
 .hero h1 {
@@ -118,9 +156,130 @@ nav a:hover {
     margin-bottom: 40px;
 }
 
-footer {
+.contact form{
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: #ede4d6;
+    color: #4c3c32;
+    border-radius: 5px;
+    padding: 3em;
+}
+
+.contact form label {
+    font-size: 0.9em;
+}
+
+.contact form input, .contact form textarea {
+    border-radius: 5px;
+    border: 1px solid #4c3c32;
+    width:70%;
+    background-color: rgb(244, 241, 237);
+}
+
+.contact form textarea {
+    height: 100px;
+}
+
+.contact form button{
     background-color: #4c3c32;
     color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.contact form button:hover{
+    background-color: #7e685b;
+}
+
+.robin{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.robin p{
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.spread{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.spread form {
+    margin-left: 10em;
+    margin-right: -10em;
+    width: 30em;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #241e1b;
+    color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0;
+    font-size: 0.8em;
+}
+
+.footer-relative{
+    position: relative;
+}
+
+.teeny{
+    font-size: 0.75em;
+    font-style: italic;
+    color: #aca8a6;
+}
+
+footer form button{
+    background-color: #4c3c32;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 0.8em;
+}
+
+.profile{
+     display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    margin-top: 1em;
+    margin-bottom: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: none;
+    text-align: center;
+    padding: 5px;
+}
+.menulist{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#menu h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+
+#menu th{
+    font-size:30px;
 }

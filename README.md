@@ -36,6 +36,14 @@ Key Features
 Screen Captures
 ![alt text](img1.png)
     This captures the creation of the readme file.
+    <BR>
+
+![alt text](download.jpeg)
+    This is the created home page showcasing few popular coffee blends.
+    <BR>
+
+![alt text](<download (1).jpeg>)
+    This is the code for the home page with the information of the cafe.
 
 ![alt text](download.jpeg)
     This is the created home page showcasing few popular coffee blends.
@@ -68,5 +76,5 @@ About the Authors
 </a>
 <br>
 <a href="https://github.com/Ms-Castle" target="_blank">
-    <img src="![alt text](Github.svg)" width="30" alt="GitHub Icon">
+    <img src="![alt text](Github.svg)" width="30" alt="Github Icon">
 </a>
