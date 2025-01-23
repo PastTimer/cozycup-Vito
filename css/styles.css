@@ -253,3 +253,22 @@ footer form button{
     cursor: pointer;
     font-size: 0.8em;
 }
+
+.profile{
+     display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+    margin-top: 1em;
+    margin-bottom: 30px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: none;
+    text-align: center;
+    padding: 8px;
+}
