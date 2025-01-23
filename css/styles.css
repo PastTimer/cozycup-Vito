@@ -279,3 +279,7 @@ td, th {
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin-top: 10px;
 }
+
+#menu th{
+    font-size:30px;
+}
